@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <img src="img/gradient.png" width="75%" alt="Gradient image"/>
+    <img src="gradient.png" width="75%" alt="Gradient image"/>
 </div>
 
 ###
